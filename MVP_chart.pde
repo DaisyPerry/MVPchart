@@ -75,9 +75,6 @@ void setup ( )
   
   //I honestly don't know why Stephen Curry's name is in white when all the others are orange,
   //but I felt like it was appropriate to have his name stand out, so I left it that way. 
-  //Please let me know if you see why it does that and can tell me for the future!
-  //This project was pretty hard for me, but it was a lot of fun once I figured it out. 
-
 
 
 }; // end setup ()
